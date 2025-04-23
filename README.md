@@ -1,4 +1,4 @@
-# MP12_MicroArch_Two_Tier
+# MP_2025_Optional_MicroArch_Two_Tier
 
 In this milestone project, you will deploy a cloud-based machine learning service that supports both a free and a premium tier. Each tier serves image classification tasks using different neural network models. You will use Amazon EKS, Docker, and Kubernetes to build, deploy, and manage your infrastructure, ensuring that resource usage is controlled and services are isolated.
 The architecture follows a two-tier microservice design:
